@@ -1,6 +1,6 @@
 # words
 
-FIXME: description
+Fun little game to find word matching a definition or for looking up a word as a dictionary.
 
 ## Installation
 
@@ -30,7 +30,6 @@ FIXME: listing of options this app accepts.
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Armon Rabiyan
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License version 1.0.
